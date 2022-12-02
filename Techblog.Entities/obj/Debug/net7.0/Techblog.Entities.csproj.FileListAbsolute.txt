@@ -1,0 +1,15 @@
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/bin/Debug/net7.0/Techblog.Entities.deps.json
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/bin/Debug/net7.0/Techblog.Entities.dll
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/bin/Debug/net7.0/Techblog.Entities.pdb
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/bin/Debug/net7.0/Techblog.Core.dll
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/bin/Debug/net7.0/Techblog.Core.pdb
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/Techblog.Entities.csproj.AssemblyReference.cache
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/Techblog.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/Techblog.Entities.AssemblyInfoInputs.cache
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/Techblog.Entities.AssemblyInfo.cs
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/Techblog.Entities.csproj.CoreCompileInputs.cache
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/Techblog.Entities.csproj.CopyComplete
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/Techblog.Entities.dll
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/refint/Techblog.Entities.dll
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/Techblog.Entities.pdb
+/Users/renahuseynova/Desktop/techblog/Techblog.Entities/obj/Debug/net7.0/ref/Techblog.Entities.dll

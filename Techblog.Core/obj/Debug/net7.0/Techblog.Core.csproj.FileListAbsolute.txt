@@ -1,0 +1,12 @@
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/bin/Debug/net7.0/Techblog.Core.deps.json
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/bin/Debug/net7.0/Techblog.Core.dll
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/bin/Debug/net7.0/Techblog.Core.pdb
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/Techblog.Core.csproj.AssemblyReference.cache
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/Techblog.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/Techblog.Core.AssemblyInfoInputs.cache
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/Techblog.Core.AssemblyInfo.cs
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/Techblog.Core.csproj.CoreCompileInputs.cache
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/Techblog.Core.dll
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/refint/Techblog.Core.dll
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/Techblog.Core.pdb
+/Users/renahuseynova/Desktop/techblog/Techblog.Core/obj/Debug/net7.0/ref/Techblog.Core.dll
